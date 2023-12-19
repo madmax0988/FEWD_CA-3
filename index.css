@@ -26,7 +26,7 @@ body{
   overflow-x: hidden;
 }
 
-#header{
+#head{
   width: 100vw;
   height: fit-content;
   background-color:#360805;
@@ -39,7 +39,7 @@ body{
   height: 70px;
 }
 
-#subHeader1{
+#subhead-1{
   width: 100vw;
   height: 80px;
   padding: 0px 30px 0px 30px;
@@ -50,11 +50,11 @@ body{
   justify-content: space-between;
 }
 
-#subHeader2 h1 {
+#subhead-2 h1 {
   padding-bottom: 8px;
 }
 
-#subHeader2{
+#subhead-2{
   padding: 0px 15% 0px 15%;
 }
 
@@ -88,7 +88,7 @@ body{
   border-radius: 0px 4px 4px 0px;
 }
 
-.modeButton{
+.CategoryButton{
   color:rgb(29, 26, 26);
   background-color:rgb(255, 255, 255);
   margin-right: 10px;
@@ -98,7 +98,7 @@ body{
   cursor: pointer;
 }
 
-.modeButton:active {
+.CategoryButton:active {
   transform: translateY(4px);
 }
 
@@ -174,7 +174,7 @@ body{
   cursor: pointer;
 }
 
-#randomMealCard{
+#randomMeal{
    color: #000000;
 }
 
@@ -182,7 +182,7 @@ body{
    color: #c4c0bc;
 }
 
-#abc{
+#Category{
     font-size: larger;
 }
 
